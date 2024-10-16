@@ -1,0 +1,6 @@
+.container-fluid {
+  background-image: url("../public/vdo-libr.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
